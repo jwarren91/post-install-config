@@ -61,3 +61,17 @@ Here is where you can configure the settings to allow users to create and submit
 Here is where you will configure Users and Agents. Users will be who submits tickets while the Agents will be the "workers" who resolve the tickets.
 </p>
 <br />
+
+<img src="https://i.imgur.com/LRHzUbd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Setting up different SLA's for when tickets are submitted by users. The purpose of setting up SLA's is for determing the severity of a ticket and how long an agent will have to resolve the ticket.
+</p>
+<br />
+
+<img src="https://i.imgur.com/cp4XPXM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Help Topics for when users submit tickets. Help topics are used to ensure proper assignment help for tickets.
+</p>
+<br />
